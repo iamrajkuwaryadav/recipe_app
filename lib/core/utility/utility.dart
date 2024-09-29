@@ -1,0 +1,1 @@
+ const String recipeImg = 'assets/images/recipe.jpg';
